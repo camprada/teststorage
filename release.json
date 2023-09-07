@@ -1,0 +1,611 @@
+{
+  "schema_version": "1.0",
+  "apps": {
+    "launch": [
+      {
+        "version": "1.1.0",
+        "on_demand": true,
+        "release_date": "2018-04-02T010:00:00.168Z",
+        "release_note_url": "https://support.qasymphony.com/hc/en-us/articles/360000446723"
+      },
+      {
+        "version": "1.2.0",
+        "on_demand": true,
+        "release_date": "2018-05-21T010:00:00.168Z",
+        "release_note_url": "https://support.qasymphony.com/hc/en-us/articles/360003925272"
+      },
+      {
+        "version": "1.2.0",
+        "on_demand": false,
+        "release_date": "2018-06-30T010:00:00.168Z",
+        "release_note_url": "https://support.qasymphony.com/hc/en-us/articles/360004266712"
+      },
+      {
+        "version": "1.3.0",
+        "on_demand": true,
+        "release_date": "2018-06-29T010:00:00.168Z",
+        "release_note_url": "https://support.qasymphony.com/hc/en-us/articles/360005117072-qTest-Launch-1-3-OnDemand-Release-Notes"
+      },
+      {
+        "version": "1.3.1",
+        "on_demand": true,
+        "release_date": "2018-08-06T010:00:00.168Z",
+        "release_note_url": "https://support.qasymphony.com/hc/en-us/articles/360011697032"
+      },
+      {
+        "version": "1.3.2",
+        "on_demand": true,
+        "release_date": "2018-09-26T010:00:00.168Z",
+        "release_note_url": "https://support.qasymphony.com/hc/en-us/articles/360011697032"
+      },
+      {
+        "version": "1.3.2",
+        "on_demand": false,
+        "release_date": "2018-11-08T010:00:00.168Z",
+        "release_note_url": "https://support.qasymphony.com/hc/en-us/articles/360018349271-Launch-1-3-2-OnPremise-Release-Notes-November-2018-"
+      },
+      {
+        "version": "1.4.1",
+        "on_demand": true,
+        "release_date": "2018-12-06T010:00:00.168Z",
+        "release_note_url": "https://support.qasymphony.com/hc/en-us/articles/360016394491"
+      },
+      {
+        "version": "1.4.2",
+        "on_demand": true,
+        "release_date": "2019-01-29T010:00:00.168Z",
+        "release_note_url": "https://support.qasymphony.com/hc/en-us/articles/360021381092-Launch-1-4-2-OnDemand-Release-Notes-Jan-29-2018"
+      },
+      {
+        "version": "1.4.3",
+        "on_demand": false,
+        "release_date": "2019-02-28T010:00:00.168Z",
+        "release_note_url": "https://support.qasymphony.com/hc/en-us/articles/360022022012"
+      },
+      {
+        "version": "1.4.3",
+        "on_demand": true,
+        "release_date": "2019-02-27T010:00:00.168Z",
+        "release_note_url": "https://support.qasymphony.com/hc/en-us/articles/360023946052"
+      },
+      {
+        "version": "1.4.4",
+        "on_demand": true,
+        "release_date": "2019-03-27T010:00:00.168Z",
+        "release_note_url": "https://support.qasymphony.com/hc/en-us/articles/360025829211"
+      },
+      {
+        "version": "1.4.5",
+        "on_demand": true,
+        "release_date": "2019-04-01T010:00:00.168Z",
+        "release_note_url": "https://support.qasymphony.com/hc/en-us/articles/360025760572"
+      },
+      {
+        "version": "1.4.6",
+        "on_demand": true,
+        "release_date": "2019-04-10T010:00:00.168Z",
+        "release_note_url": "https://support.qasymphony.com/hc/en-us/articles/360026240511"
+      },
+      {
+        "version": "1.4.7",
+        "on_demand": true,
+        "release_date": "2019-04-23T010:00:00.168Z",
+        "release_note_url": "https://support.qasymphony.com/hc/en-us/articles/360027170591"
+      },
+      {
+        "version": "1.4.7",
+        "on_demand": false,
+        "release_date": "2019-04-26T010:00:00.168Z",
+        "release_note_url": "https://support.qasymphony.com/hc/en-us/articles/360026195411"
+      },
+      {
+        "version": "1.4.8",
+        "on_demand": true,
+        "release_date": "2019-05-17T010:00:00.168Z",
+        "release_note_url": "https://support.qasymphony.com/hc/en-us/articles/360027462692"
+      },
+      {
+        "version": "1.5.1",
+        "on_demand": true,
+        "release_date": "2019-06-28T010:00:00.168Z",
+        "release_note_url": "https://support.qasymphony.com/hc/en-us/articles/360029058151"
+      },
+      {
+        "version": "1.5.2",
+        "on_demand": true,
+        "release_date": "2019-07-08T010:00:00.168Z",
+        "release_note_url": "https://support.qasymphony.com/hc/en-us/articles/360030485311"
+      },
+      {
+        "version": "1.5.3",
+        "on_demand": false,
+        "release_date": "2019-07-31T010:00:00.168Z",
+        "release_note_url": "https://support.qasymphony.com/hc/en-us/articles/360030083771"
+      },
+      {
+        "version": "1.5.3",
+        "on_demand": true,
+        "release_date": "2019-08-08T010:00:00.168Z",
+        "release_note_url": "https://support.qasymphony.com/hc/en-us/articles/360031144431"
+      },
+      {
+        "version": "1.5.4",
+        "on_demand": true,
+        "release_date": "2019-12-06T010:00:00.168Z",
+        "release_note_url": "https://support.qasymphony.com/hc/en-us/articles/360036093612"
+      },
+      {
+        "version": "1.5.5",
+        "on_demand": true,
+        "release_date": "2019-12-19T010:00:00.168Z",
+        "release_note_url": "https://support.qasymphony.com/hc/en-us/articles/360037823131"
+      },
+      {
+        "version": "1.5.6",
+        "on_demand": true,
+        "release_date": "2019-12-26T010:00:00.168Z",
+        "release_note_url": "https://support.qasymphony.com/hc/en-us/articles/360038168971"
+      },
+      {
+        "version": "1.5.6",
+        "on_demand": false,
+        "release_date": "2020-02-18T010:00:00.168Z",
+        "release_note_url": "https://documentation.tricentis.com/qtest/9910/en/content/qtest_launch/release_notes/onpremise_release_notes/launch_1.5.6_onpremise_release_notes.htm"
+      },
+      {
+        "version": "1.5.7",
+        "on_demand": true,
+        "release_date": "2020-03-16T010:00:00.168Z",
+        "release_note_url": "https://support.tricentis.com/community/manuals_detail.do?lang=en&version=On-Demand&module=Tricentis%20qTest%20On-Demand&url=qtest_launch/release_notes/ondemand_release_notes/launch_od_rn_landing_page.htm"
+      },
+      {
+        "version": "1.5.8",
+        "on_demand": true,
+        "release_date": "2020-03-24T010:00:00.168Z",
+        "release_note_url": "https://support.tricentis.com/community/manuals_detail.do?lang=en&version=On-Demand&module=Tricentis%20qTest%20On-Demand&url=qtest_launch/release_notes/ondemand_release_notes/launch_od_rn_landing_page.htm"
+      },
+      {
+        "version": "1.5.8",
+        "on_demand": false,
+        "release_date": "2020-05-06T010:00:00.168Z",
+        "release_note_url": "https://documentation.tricentis.com/qtest/1001/en/content/qtest_launch/release_notes/onpremise_release_notes/launch_1.5.8_release_notes.htm"
+      },
+      {
+        "version": "1.6.1",
+        "on_demand": true,
+        "release_date": "2020-06-08T010:00:00.168Z",
+        "release_note_url": "https://support.tricentis.com/community/manuals_detail.do?lang=en&version=On-Demand&module=Tricentis%20qTest%20On-Demand&url=qtest_launch/release_notes/ondemand_release_notes/launch_od_rn_landing_page.htm"
+      },
+      {
+        "version": "1.6.2",
+        "on_demand": true,
+        "release_date": "2020-06-15T010:00:00.168Z",
+        "release_note_url": "https://support.tricentis.com/community/manuals_detail.do?lang=en&version=On-Demand&module=Tricentis%20qTest%20On-Demand&url=qtest_launch/release_notes/ondemand_release_notes/launch_od_rn_landing_page.htm"
+      },
+      {
+        "version": "1.6.2",
+        "on_demand": false,
+        "release_date": "2020-07-15T010:00:00.168Z",
+        "release_note_url": "https://support.tricentis.com/community/manuals_detail.do?lang=en&version=10.1.0&module=Tricentis%20qTest%20On-Premise&url=qtest_launch/release_notes/onpremise_release_notes/launch_op_rn_landing_page.htm"
+      },
+      {
+        "version": "1.6.3",
+        "on_demand": true,
+        "release_date": "2020-11-02T010:00:00.168Z",
+        "release_note_url": "https://support.tricentis.com/community/manuals_detail.do?lang=en&version=On-Demand&module=Tricentis%20qTest%20On-Demand&url=qtest_launch/release_notes/ondemand_release_notes/launch_od_rn_landing_page.htm"
+      },
+      {
+        "version": "1.6.4",
+        "on_demand": true,
+        "release_date": "2021-01-23T010:00:00.168Z",
+        "release_note_url": "https://support.tricentis.com/community/manuals_detail.do?lang=en&version=On-Demand&module=Tricentis%20qTest%20On-Demand&url=qtest_launch/release_notes/ondemand_release_notes/launch_od_rn_landing_page.htm"
+      },
+      {
+        "version": "1.6.4",
+        "on_demand": false,
+        "release_date": "2021-02-10T010:00:00.168Z",
+        "release_note_url": "https://support.tricentis.com/community/manuals_detail.do?lang=en&version=10.3.0&module=Tricentis%20qTest%20On-Premise&url=qtest_launch/release_notes/onpremise_release_notes/launch_op_rn_landing_page.htm"
+      },
+      {
+        "version": "1.6.5",
+        "on_demand": true,
+        "release_date": "2021-05-10T010:00:00.168Z",
+        "release_note_url": "https://support.tricentis.com/community/manuals_detail.do?lang=en&version=On-Demand&module=Tricentis%20qTest%20On-Demand&url=qtest_launch/release_notes/ondemand_release_notes/launch_od_rn_landing_page.htm"
+      },
+      {
+        "version": "1.6.5",
+        "on_demand": false,
+        "release_date": "2021-05-19T010:00:00.168Z",
+        "release_note_url": "https://support.tricentis.com/community/manuals_detail.do?lang=en&version=10.4.0&module=Tricentis%20qTest%20On-Premise&url=qtest_launch/release_notes/onpremise_release_notes/launch_op_rn_landing_page.htm"
+      },
+      {
+        "version": "1.6.6",
+        "on_demand": true,
+        "release_date": "2021-08-10T010:00:00.168Z",
+        "release_note_url": "https://documentation.tricentis.com/qtest/od/en/content/release_notes_and_announcements/launch/launch_release_notes.htm"
+      },
+      {
+        "version": "1.6.7",
+        "on_demand": true,
+        "release_date": "2021-08-16T010:00:00.168Z",
+        "release_note_url": "https://documentation.tricentis.com/qtest/od/en/content/release_notes_and_announcements/launch/launch_release_notes.htm"
+      },
+      {
+        "version": "1.6.7",
+        "on_demand": false,
+        "release_date": "2021-09-10T010:00:00.168Z",
+        "release_note_url": "https://support.tricentis.com/community/manuals_detail.do?lang=en&version=10.5.0&module=Tricentis%20qTest%20On-Premise&url=release_notes_and_announcements/launch/launch_release_notes.htm"
+      }
+    ],
+    "automation_host": [
+      {
+        "version": "2.0.3",
+        "release_date": "2018-04-02T010:00:00.168Z",
+        "release_note_url": "https://documentation.tricentis.com/qtest/od/en/content/launch/automation_host/qtest_automation_host_installation_and_upgrade_guide_master_list.htm",
+        "download_url": {
+          "windows": "https://s3.amazonaws.com/qtest-storage/qtest-automation/2.0.3/agentctl-2.0.3-windows-x64-full.zip",
+          "linux": "https://s3.amazonaws.com/qtest-storage/qtest-automation/2.0.3/agentctl-2.0.3-linux-x64-full.tgz",
+          "mac": "https://s3.amazonaws.com/qtest-storage/qtest-automation/2.0.3/agentctl-2.0.3-osx-x64-full.tgz"
+        },
+        "compatible_versions": [],
+        "compatible_launch_versions": [
+          "1.1.*",
+          "1.2.*",
+          "1.3.*",
+          "1.4.*"
+        ]
+      },
+      {
+        "version": "2.0.4",
+        "release_date": "2018-05-07T010:00:00.168Z",
+        "release_note_url": "https://support.qasymphony.com/hc/en-us/articles/360000764546",
+        "download_url": {
+          "windows": "https://s3.amazonaws.com/qtest-storage/qtest-automation/2.0.4/agentctl-2.0.4-windows-x64-full.zip",
+          "linux": "https://s3.amazonaws.com/qtest-storage/qtest-automation/2.0.4/agentctl-2.0.4-linux-x64-full.tgz",
+          "mac": "https://s3.amazonaws.com/qtest-storage/qtest-automation/2.0.4/agentctl-2.0.4-osx-x64-full.tgz"
+        },
+        "compatible_versions": [
+          "2.0.3"
+        ],
+        "compatible_launch_versions": [
+          "1.1.*",
+          "1.2.*",
+          "1.3.*",
+          "1.4.*"
+        ]
+      },
+      {
+        "version": "2.0.5",
+        "release_date": "2018-05-21T010:00:00.168Z",
+        "release_note_url": "https://support.qasymphony.com/hc/en-us/articles/360003925372-qTest-Automation-Host-2-0-5-Release-Notes-May-21-2018",
+        "download_url": {
+          "windows": "https://s3.amazonaws.com/qtest-storage/qtest-automation/2.0.5/agentctl-2.0.5-windows-x64-full.zip",
+          "linux": "https://s3.amazonaws.com/qtest-storage/qtest-automation/2.0.5/agentctl-2.0.5-linux-x64-full.tgz",
+          "mac": "https://s3.amazonaws.com/qtest-storage/qtest-automation/2.0.5/agentctl-2.0.5-osx-x64-full.tgz"
+        },
+        "compatible_versions": [
+          "2.0.3",
+          "2.0.4"
+        ],
+        "compatible_launch_versions": [
+          "1.1.*",
+          "1.2.*",
+          "1.3.*",
+          "1.4.*"
+        ]
+      },
+      {
+        "version": "2.1.0",
+        "release_date": "2018-06-29T09:57:49.168Z",
+        "release_note_url": "https://support.qasymphony.com/hc/en-us/articles/360005172791",
+        "download_url": {
+          "windows": "https://qasymphony.jfrog.io/qasymphony/launch-release-local/automation-hosts/agentctl/2.1.0/agentctl-2.1.0-windows-x64-full.zip",
+          "linux": "https://qasymphony.jfrog.io/qasymphony/launch-release-local/automation-hosts/agentctl/2.1.0/agentctl-2.1.0-linux-x64-full.tgz",
+          "mac": "https://qasymphony.jfrog.io/qasymphony/launch-release-local/automation-hosts/agentctl/2.1.0/agentctl-2.1.0-osx-x64-full.tgz"
+        },
+        "compatible_versions": [
+          "2.0.3",
+          "2.0.4",
+          "2.0.5"
+        ],
+        "compatible_launch_versions": [
+          "1.1.*",
+          "1.2.*",
+          "1.3.*",
+          "1.4.*",
+          "1.5.*"
+        ]
+      },
+      {
+        "version": "2.1.1",
+        "release_date": "2018-08-07T09:57:49.168Z",
+        "release_note_url": "https://support.qasymphony.com/hc/en-us/articles/360011685872",
+        "download_url": {
+          "windows": "https://qasymphony.jfrog.io/qasymphony/launch-release-local/automation-hosts/agentctl/2.1.1/agentctl-2.1.1-windows-x64-full.zip",
+          "linux": "https://qasymphony.jfrog.io/qasymphony/launch-release-local/automation-hosts/agentctl/2.1.1/agentctl-2.1.1-linux-x64-full.tgz",
+          "mac": "https://qasymphony.jfrog.io/qasymphony/launch-release-local/automation-hosts/agentctl/2.1.1/agentctl-2.1.1-osx-x64-full.tgz"
+        },
+        "compatible_versions": [
+          "2.0.3",
+          "2.0.4",
+          "2.0.5",
+          "2.1.0"
+        ],
+        "compatible_launch_versions": [
+          "1.1.*",
+          "1.2.*",
+          "1.3.*",
+          "1.4.*",
+          "1.5.*"
+        ]
+      },
+      {
+        "version": "2.2.1",
+        "release_date": "2018-12-06T09:57:49.168Z",
+        "release_note_url": "https://support.qasymphony.com/hc/en-us/articles/360020096012-Automation-Host-2-2-1-OnDemand-Release-Notes-December-6-2018",
+        "download_url": {
+          "windows": "https://qasymphony.jfrog.io/qasymphony/launch-release-local/automation-hosts/agentctl/2.2.1/agentctl-2.2.1-windows-x64-full.zip",
+          "linux": "https://qasymphony.jfrog.io/qasymphony/launch-release-local/automation-hosts/agentctl/2.2.1/agentctl-2.2.1-linux-x64-full.tgz",
+          "mac": "https://qasymphony.jfrog.io/qasymphony/launch-release-local/automation-hosts/agentctl/2.2.1/agentctl-2.2.1-osx-x64-full.tgz"
+        },
+        "compatible_versions": [
+          "2.0.3",
+          "2.0.4",
+          "2.0.5",
+          "2.1.0",
+          "2.1.1"
+        ],
+        "compatible_launch_versions": [
+          "1.1.*",
+          "1.2.*",
+          "1.3.*",
+          "1.4.*",
+          "1.5.*"
+        ]
+      },
+      {
+        "version": "2.2.2",
+        "release_date": "2019-03-13T09:57:49.168Z",
+        "release_note_url": "https://support.qasymphony.com/hc/en-us/articles/360024399212",
+        "download_url": {
+          "windows": "https://qasymphony.jfrog.io/qasymphony/launch-release-local/automation-hosts/agentctl/2.2.2/agentctl-2.2.2-windows-x64-full.zip",
+          "linux": "https://qasymphony.jfrog.io/qasymphony/launch-release-local/automation-hosts/agentctl/2.2.2/agentctl-2.2.2-linux-x64-full.tgz",
+          "mac": "https://qasymphony.jfrog.io/qasymphony/launch-release-local/automation-hosts/agentctl/2.2.2/agentctl-2.2.2-osx-x64-full.tgz"
+        },
+        "compatible_versions": [
+          "2.0.3",
+          "2.0.4",
+          "2.0.5",
+          "2.1.0",
+          "2.1.1",
+          "2.2.1",
+          "2.2.2"
+        ],
+        "compatible_launch_versions": [
+          "1.1.*",
+          "1.2.*",
+          "1.3.*",
+          "1.4.*",
+          "1.5.*"
+        ]
+      },
+      {
+        "version": "2.3.1",
+        "release_date": "2019-08-08T09:57:49.168Z",
+        "release_note_url": "https://support.qasymphony.com/hc/en-us/articles/360028298432",
+        "download_url": {
+          "windows": "https://qasymphony.jfrog.io/qasymphony/launch-release-local/automation-hosts/agentctl/2.3.1/agentctl-2.3.1-windows-x64-full.zip",
+          "linux": "https://qasymphony.jfrog.io/qasymphony/launch-release-local/automation-hosts/agentctl/2.3.1/agentctl-2.3.1-linux-x64-full.tgz",
+          "mac": "https://qasymphony.jfrog.io/qasymphony/launch-release-local/automation-hosts/agentctl/2.3.1/agentctl-2.3.1-osx-x64-full.tgz"
+        },
+        "compatible_versions": [
+          "2.0.3",
+          "2.0.4",
+          "2.0.5",
+          "2.1.0",
+          "2.1.1",
+          "2.2.1",
+          "2.2.2",
+          "2.3.1"
+        ],
+        "compatible_launch_versions": [
+          "1.1.*",
+          "1.2.*",
+          "1.3.*",
+          "1.4.*",
+          "1.5.*",
+          "1.6.*"
+        ]
+      },
+      {
+        "version": "2.3.2",
+        "release_date": "2019-09-26T09:57:49.168Z",
+        "release_note_url": "https://support.qasymphony.com/hc/en-us/articles/360033780772",
+        "download_url": {
+          "windows": "https://qasymphony.jfrog.io/qasymphony/launch-release-local/automation-hosts/agentctl/2.3.2/agentctl-2.3.2-windows-x64-full.zip",
+          "linux": "https://qasymphony.jfrog.io/qasymphony/launch-release-local/automation-hosts/agentctl/2.3.2/agentctl-2.3.2-linux-x64-full.tgz",
+          "mac": "https://qasymphony.jfrog.io/qasymphony/launch-release-local/automation-hosts/agentctl/2.3.2/agentctl-2.3.2-osx-x64-full.tgz"
+        },
+        "compatible_versions": [
+          "2.0.3",
+          "2.0.4",
+          "2.0.5",
+          "2.1.0",
+          "2.1.1",
+          "2.2.1",
+          "2.2.2",
+          "2.3.1",
+          "2.3.2"
+        ],
+        "compatible_launch_versions": [
+          "1.1.*",
+          "1.2.*",
+          "1.3.*",
+          "1.4.*",
+          "1.5.*",
+          "1.6.*"
+        ]
+      },
+      {
+        "version": "2.3.3",
+        "release_date": "2020-02-24T09:57:49.168Z",
+        "release_note_url": "https://documentation.tricentis.com/qtest/od/en/content/qtest_launch/release_notes/automation_host_release_notes/automation_host_rn_landing_page.htm",
+        "download_url": {
+          "windows": "https://qasymphony.jfrog.io/qasymphony/launch-release-local/automation-hosts/agentctl/2.3.3/agentctl-2.3.3-windows-x64-full.zip",
+          "linux": "https://qasymphony.jfrog.io/qasymphony/launch-release-local/automation-hosts/agentctl/2.3.3/agentctl-2.3.3-linux-x64-full.tgz",
+          "mac": "https://qasymphony.jfrog.io/qasymphony/launch-release-local/automation-hosts/agentctl/2.3.3/agentctl-2.3.3-osx-x64-full.tgz"
+        },
+        "compatible_versions": [
+          "2.0.3",
+          "2.0.4",
+          "2.0.5",
+          "2.1.0",
+          "2.1.1",
+          "2.2.1",
+          "2.2.2",
+          "2.3.1",
+          "2.3.2",
+          "2.3.3"
+        ],
+        "compatible_launch_versions": [
+          "1.1.*",
+          "1.2.*",
+          "1.3.*",
+          "1.4.*",
+          "1.5.*",
+          "1.6.*"
+        ]
+      },
+      {
+        "version": "2.3.4",
+        "release_date": "2020-04-29T09:57:49.168Z",
+        "release_note_url": "https://documentation.tricentis.com/qtest/od/en/content/qtest_launch/release_notes/automation_host_release_notes/automation_host_rn_landing_page.htm",
+        "download_url": {
+          "windows": "https://qasymphony.jfrog.io/qasymphony/launch-release-local/automation-hosts/agentctl/2.3.4/agentctl-2.3.4-windows-x64-full.zip",
+          "linux": "https://qasymphony.jfrog.io/qasymphony/launch-release-local/automation-hosts/agentctl/2.3.4/agentctl-2.3.4-linux-x64-full.tgz",
+          "mac": "https://qasymphony.jfrog.io/qasymphony/launch-release-local/automation-hosts/agentctl/2.3.4/agentctl-2.3.4-osx-x64-full.tgz"
+        },
+        "compatible_versions": [
+          "2.0.3",
+          "2.0.4",
+          "2.0.5",
+          "2.1.0",
+          "2.1.1",
+          "2.2.1",
+          "2.2.2",
+          "2.3.1",
+          "2.3.2",
+          "2.3.3",
+          "2.3.4"
+        ],
+        "compatible_launch_versions": [
+          "1.1.*",
+          "1.2.*",
+          "1.3.*",
+          "1.4.*",
+          "1.5.*",
+          "1.6.*"
+        ]
+      },
+      {
+        "version": "2.3.5",
+        "release_date": "2020-07-27T09:57:49.168Z",
+        "release_note_url": "https://documentation.tricentis.com/qtest/od/en/content/release_notes_and_announcements/launch/launch_release_notes.htm",
+        "download_url": {
+          "windows": "https://qasymphony.jfrog.io/qasymphony/launch-release-local/automation-hosts/agentctl/2.3.5/agentctl-2.3.5-windows-x64-full.zip",
+          "linux": "https://qasymphony.jfrog.io/qasymphony/launch-release-local/automation-hosts/agentctl/2.3.5/agentctl-2.3.5-linux-x64-full.tgz",
+          "mac": "https://qasymphony.jfrog.io/qasymphony/launch-release-local/automation-hosts/agentctl/2.3.5/agentctl-2.3.5-osx-x64-full.tgz"
+        },
+        "compatible_versions": [
+          "2.0.3",
+          "2.0.4",
+          "2.0.5",
+          "2.1.0",
+          "2.1.1",
+          "2.2.1",
+          "2.2.2",
+          "2.3.1",
+          "2.3.2",
+          "2.3.3",
+          "2.3.4",
+          "2.3.5"
+        ],
+        "compatible_launch_versions": [
+          "1.1.*",
+          "1.2.*",
+          "1.3.*",
+          "1.4.*",
+          "1.5.*",
+          "1.6.*"
+        ]
+      },
+      {
+        "version": "2.3.6",
+        "release_date": "2021-09-22T09:57:49.168Z",
+        "release_note_url": "https://documentation.tricentis.com/qtest/od/en/content/release_notes_and_announcements/launch/launch_release_notes.htm",
+        "download_url": {
+          "windows": "https://qasymphony.jfrog.io/artifactory/launch-release-local/automation-hosts/agentctl/2.3.6/agentctl-2.3.6-windows-x64-full.zip",
+          "linux": "https://qasymphony.jfrog.io/artifactory/launch-release-local/automation-hosts/agentctl/2.3.6/agentctl-2.3.6-linux-x64-full.tgz",
+          "mac": "https://qasymphony.jfrog.io/artifactory/launch-release-local/automation-hosts/agentctl/2.3.6/agentctl-2.3.6-osx-x64-full.tgz"
+        },
+        "compatible_versions": [
+          "2.0.3",
+          "2.0.4",
+          "2.0.5",
+          "2.1.0",
+          "2.1.1",
+          "2.2.1",
+          "2.2.2",
+          "2.3.1",
+          "2.3.2",
+          "2.3.3",
+          "2.3.4",
+          "2.3.5",
+          "2.3.6"
+        ],
+        "compatible_launch_versions": [
+          "1.1.*",
+          "1.2.*",
+          "1.3.*",
+          "1.4.*",
+          "1.5.*",
+          "1.6.*"
+        ]
+      },
+      {
+        "version": "2023.5",
+        "release_date": "2023-09-07T09:57:49.168Z",
+        "release_note_url": "https://documentation.tricentis.com/qtest/od/en/content/release_notes_and_announcements/launch/launch_release_notes.htm",
+        "download_url": {
+          "windows": "https://qasymphony.jfrog.io/qasymphony/launch-release-local/automation-hosts/agentctl/2023.5/agentctl-2023.5-windows-x64-full.zip",
+          "linux": "https://qasymphony.jfrog.io/artifactory/launch-release-local/automation-hosts/agentctl/2023.5/agentctl-2023.5-linux-x64-full.tgz",
+          "mac": "https://qasymphony.jfrog.io/artifactory/launch-release-local/automation-hosts/agentctl/2023.5/agentctl-2023.5-osx-x64-full.tgz"
+        },
+        "compatible_versions": [
+          "2.0.3",
+          "2.0.4",
+          "2.0.5",
+          "2.1.0",
+          "2.1.1",
+          "2.2.1",
+          "2.2.2",
+          "2.3.1",
+          "2.3.2",
+          "2.3.3",
+          "2.3.4",
+          "2.3.5",
+          "2.3.6",
+          "2023.5"
+        ],
+        "compatible_launch_versions": [
+          "1.1.*",
+          "1.2.*",
+          "1.3.*",
+          "1.4.*",
+          "1.5.*",
+          "1.6.*"
+        ]
+      }
+    ]
+  }
+}
