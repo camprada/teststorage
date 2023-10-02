@@ -573,13 +573,13 @@
         ]
       },
       {
-        "version": "2023.5",
-        "release_date": "2023-09-07T09:57:49.168Z",
+        "version": "2023.6",
+        "release_date": "2023-09-11T14:57:20.168Z",
         "release_note_url": "https://documentation.tricentis.com/qtest/od/en/content/release_notes_and_announcements/launch/launch_release_notes.htm",
         "download_url": {
-          "windows": "https://qasymphony.jfrog.io/qasymphony/launch-release-local/automation-hosts/agentctl/2023.5/agentctl-2023.5-windows-x64-full.zip",
-          "linux": "https://qasymphony.jfrog.io/artifactory/launch-release-local/automation-hosts/agentctl/2023.5/agentctl-2023.5-linux-x64-full.tgz",
-          "mac": "https://qasymphony.jfrog.io/artifactory/launch-release-local/automation-hosts/agentctl/2023.5/agentctl-2023.5-osx-x64-full.tgz"
+          "windows": "https://qasymphony.jfrog.io/artifactory/launch-release-local/automation-hosts/agentctl/2023.6/agentctl-2023.6-windows-x64-full.zip",
+          "linux": "https://qasymphony.jfrog.io/artifactory/launch-release-local/automation-hosts/agentctl/2023.6/agentctl-2023.6-linux-x64-full.tgz",
+          "mac": "https://qasymphony.jfrog.io/artifactory/launch-release-local/automation-hosts/agentctl/2023.6/agentctl-2023.6-osx-x64-full.tgz"
         },
         "compatible_versions": [
           "2.0.3",
@@ -595,7 +595,7 @@
           "2.3.4",
           "2.3.5",
           "2.3.6",
-          "2023.5"
+          "2023.6"
         ],
         "compatible_launch_versions": [
           "1.1.*",
@@ -603,7 +603,8 @@
           "1.3.*",
           "1.4.*",
           "1.5.*",
-          "1.6.*"
+          "1.6.*",
+          "2023.6"
         ]
       }
     ]
